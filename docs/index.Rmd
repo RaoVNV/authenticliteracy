@@ -25,18 +25,18 @@ This project is supported by a grant from the University of Illinois Provost's I
 
 The [2016 GAISE Guidelines](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf), in describing the collective thinking expressed in the statistics education literature about what a student should know and understand at the end of a first course in statistics, state that: 
 
-- "Students should become critical consumers of statistically-based results reported in popular media, recognizing whether reported results reasonably follow from the study and analysis conducted.", and
+- "Students should become critical consumers of statistically-based results reported in popular media, recognizing whether reported results reasonably follow from the study and analysis conducted", and
 - "Students should be able to produce graphical displays and numerical summaries and interpret what graphs do and do not reveal". 
 
-With data and graphical displays seeping into all facets of live, from news to entertainment, we could not agree more. However, graphs we see in our every day lives are often quite different than the graphs students are exposed to in introductory statistics courses. 
+With data and graphical displays seeping into all facets of life, from news to entertainment, we could not agree more. However, graphs we see in our every day lives are often quite different than the graphs students are exposed to in introductory statistics courses. 
 
-In this project, investigate whether students can interpret what *authentic* graphs they may see in their every days do and do not reveal, how we can measure their skills in doing so, and how to support the development of these skills. 
+In this project, we investigate whether students can interpret what *authentic* graphs they may see in their every day lives do and do not reveal, how we can measure their skills in doing so, and how to support the development of these skills. 
 
 # Current Status
 
-We have created a draft assessment to measure students' authentic statistical graphical literacy. The assessment is intended to measure students ability to interpret what graphs reported in popular media do and do not reveal in terms of evaluating whether claims reasonably follow from the data portrayed.
+We have created a draft assessment to measure students' authentic statistical graphical literacy. The assessment is intended to measure students' ability to interpret what graphs reported in popular media do and do not reveal, via evaluating whether claims reasonably follow from the data portrayed.
 
-We have also investigated how students interpret graphs from population media, and describe patterns in their thinking, specifically in terms of their thinking about biases as well as challenges they faced in drawing interpretations. 
+We have also investigated how students interpret graphs from popular media and describe patterns in their thinking, specifically in terms of their thinking about biases as well as challenges they faced in drawing interpretations. 
 
 # Presentations
 

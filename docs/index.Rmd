@@ -24,13 +24,16 @@ In this project, we investigate methods for both the assessment and instructions
 
 # Assessment
 
-In this phase of the project, we investigate whether students can interpret what *authentic* graphs they may see in their every day lives do and do not reveal, how we can measure their skills in doing so, and how to support the development of these skills. 
+In this phase of the project, we investigate whether students can interpret what *authentic* graphs they may see in their every day lives do and do not reveal, and how we can *measure* their skills in doing so. 
+
+## Current Status
+
+We have built and tested several assessment items and stems, and are in the process of publishing a manuscript detailing the assessment development process. 
 
 ## Project Contributors
 
 In alphabetical order: 
 
-- Ava Graczyk
 - [Kelly Findley](https://kelly-findley.github.io/)
 - Madeline Hunt
 - Mia Petrie
@@ -40,23 +43,23 @@ In alphabetical order:
 
 This project is supported by a grant from the University of Illinois Provost's Initiative for Teaching Advancement. 
 
-## Current Status
-
-We have created a draft assessment to measure students' authentic statistical graphical literacy. The assessment is intended to measure students' ability to interpret what graphs reported in popular media do and do not reveal, via evaluating whether claims reasonably follow from the data portrayed.
-
-We have also investigated how students interpret graphs from popular media and describe patterns in their thinking, specifically in terms of their thinking about biases as well as challenges they faced in drawing interpretations. 
-
 ## Presentations
 
-Hunt, M., Petrie, M, Findley, K., & Rao, V.N.V. (2025, April). [*Challenges and opportunities for promoting visual data literacy*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202025%20Hunt%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Hunt, M., Findley, K., & Rao, V.N.V. (2026, June). [*Introducing the CLEAR Data Assessment to Evaluate Students' Visual Data Literacy*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202026%20Hunt%20et%20al.pdf) [Poster Presentation]. Electronic Conference on Teaching Statistics. 
 
-Petrie, M., Hunt, M., Rao, V.N.V., & Findley, K. (2025, April). [*"It's just quantitative": Exploring students' detection of biases in data visualizations*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202025%20Petrie%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Petrie, M., Hunt, M., Rao, V.N.V., & Findley, K. (2025, July). [*"It's just quantitative": Exploring students' detection of biases in data visualizations*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202025%20Petrie%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics, Ames, Iowa, USA.
+
+Hunt, M., Petrie, M, Findley, K., & Rao, V.N.V. (2025, July). [*Challenges and opportunities for promoting visual data literacy*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202025%20Hunt%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics, Ames, Iowa, USA. 
 
 <br> 
 
 # Instruction
 
-More info soon.
+In this phase of the project, we investigate whether students can interpret what *authentic* graphs they may see in their every day lives do and do not reveal, and how we can *develop* their skills in doing so.
+
+## Current Status
+
+We are currently evaluating two different activities in their efficacy to promote students' interpretations of graphs. One is the popular *What's going on in this graph?* activity published by the New York Times. The other is a classroom intervention built on the educational theory of anchoring.  
 
 ## Project Contributors
 
@@ -68,10 +71,10 @@ In alphabetical order:
 - Reem Kharfan
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
-## Current Status
-
-More info soon. 
-
 ## Presentations
 
-More info soon.
+King, M., Buhnerkempe, E., & Rao, V.N.V. (2026, June). [*Challenging Students to Think for Themselves*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202026%20King%20et%20al.pdf) [Poster Presentation]. Electronic Conference on Teaching Statistics. 
+
+Graczyk, A., Hunt, M., & Rao, V.N.V. (2026, June). [*Artificial Incompetence: AI's Failures in Interpreting Graphs*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202026%20Graczyk%20et%20al.pdf) [Poster Presentation]. Electronic Conference on Teaching Statistics. 
+
+Kharfan, R., Bailey, N., & Rao, V.N.V. (2025, July). [*Who's Not Here? Fostering a Statistical Literacy Habit of Mind*](https://github.com/RaoVNV/authenticliteracy/blob/main/URS%202025%20Kharfan%20et%20al.pdf) [Poster Presentation]. United States Conference on Teaching Statistics, Ames, Iowa, USA. 
